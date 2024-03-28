@@ -1,0 +1,14 @@
+.bg-gray {
+	background-color: rgb(187, 212, 218);
+}
+
+.background-image {
+	background-image: linear-gradient(
+		to bottom,
+		#a2b0cb,
+		#8abdd8,
+		#74cbd4,
+		#79d5be,
+		#9eda9e
+	);
+}
