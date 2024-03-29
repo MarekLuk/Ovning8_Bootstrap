@@ -3,12 +3,24 @@
 }
 
 .background-image {
-	background-image: linear-gradient(
-		to bottom,
-		#a2b0cb,
-		#8abdd8,
-		#74cbd4,
-		#79d5be,
-		#9eda9e
+	background: rgb(255, 255, 255);
+	background: linear-gradient(
+		180deg,
+		rgba(255, 255, 255, 1) 4%,
+		rgba(245, 236, 236, 1) 36%,
+		rgba(249, 249, 249, 1) 71%,
+		rgba(254, 254, 254, 1) 97%
 	);
+}
+
+.facebookcolor {
+	background-color: #3b5998;
+}
+
+.twittercolor {
+	background-color: #55acee;
+}
+
+.googlecolor {
+	background-color: #dd4b39;
 }
